@@ -25,5 +25,6 @@ int main()
 			kolvo++;
 	}
 	printf("Количество промежутков возрастания равно %d", kolvo);
+	free(mas);
 	return 0;
 }
