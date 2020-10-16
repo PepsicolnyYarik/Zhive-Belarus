@@ -1,6 +1,6 @@
 ﻿#include <stdio.h>
 #include <locale.h>
-#include <malloc.h>
+#include <stdlib.h>
 
 int main()
 {
